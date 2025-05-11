@@ -54,4 +54,4 @@ make_rotating_vinyl_mp4(
 
 
 ## Итог
-![App Screenshot](https://imgur.com/a/Hklvd2q)
+![App Screenshot](https://i.imgur.com/WGXZp3b.png)
